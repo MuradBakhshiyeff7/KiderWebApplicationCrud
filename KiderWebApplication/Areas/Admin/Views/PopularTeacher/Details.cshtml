@@ -1,0 +1,19 @@
+﻿@model PopularTeacher
+
+@{
+    ViewData["Title"] = "Teacher Detail";
+}
+
+<h1 class="h3 mb-4 text-gray-800">Popular Teacher Detail</h1>
+
+<div class="card mb-4">
+    <div class="card-body">
+        <h4 class="card-title">@Model.FullName</h4>
+        <p class="card-text"><strong>Profession:</strong> @Model.Profession</p>
+        <div>
+            <img src="~/uploads/@Model.Image" width="150" />
+        </div>
+    </div>
+</div>
+
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>
