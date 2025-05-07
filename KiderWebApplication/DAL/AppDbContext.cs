@@ -11,5 +11,6 @@ namespace KiderWebApplication.DAL
         }
 
         public DbSet<PopularTeacher> PopularTeachers { get; set; }
+        public DbSet<Slider> Sliders { get; set; }
     }
 }

@@ -1,5 +1,6 @@
 using KiderWebApplication.DAL;
 using KiderWebApplication.Models;
+using KiderWebApplication.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -16,11 +17,13 @@ namespace KiderWebApplication.Controllers
 
         public IActionResult Index()
         {
-            var popularTeachers = _context.PopularTeachers
-                .Where(t => t.IsActive)
-                .ToList();
+            var model = new HomeVM
+            {
+                PopularTeachers = _context.PopularTeachers.ToList(),
+                Sliders = _context.Sliders.Where(s => s.IsActive).ToList()
+            };
 
-            return View(popularTeachers);
+            return View(model);
         }
     }
 }

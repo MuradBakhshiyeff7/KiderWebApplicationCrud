@@ -7929,12 +7929,20 @@
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\uploads\\4e2997f8-2a10-4bb6-9742-b07af55aa3c1.jpg",
-      "PackagePath": "staticwebassets\\uploads\\4e2997f8-2a10-4bb6-9742-b07af55aa3c1.jpg"
+      "Id": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\uploads\\963ab205-9664-4c1d-9bff-86924cd22cfe.jpg",
+      "PackagePath": "staticwebassets\\uploads\\963ab205-9664-4c1d-9bff-86924cd22cfe.jpg"
     },
     {
-      "Id": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\uploads\\81a05f24-8936-4079-aa14-a6a78ff5fa33.jpg",
-      "PackagePath": "staticwebassets\\uploads\\81a05f24-8936-4079-aa14-a6a78ff5fa33.jpg"
+      "Id": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\uploads\\a8c05d50-4938-4e2d-a9b9-6233c3136e36.png",
+      "PackagePath": "staticwebassets\\uploads\\a8c05d50-4938-4e2d-a9b9-6233c3136e36.png"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\uploads\\sliders\\6af92461-eee8-4a89-8190-1529e5abbfa1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\6af92461-eee8-4a89-8190-1529e5abbfa1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\uploads\\sliders\\ff5df2fa-7f11-4ce8-a6eb-539dc0ccc0dd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\ff5df2fa-7f11-4ce8-a6eb-539dc0ccc0dd.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KiderWebApplication.Microsoft.AspNetCore.StaticWebAssets.props",

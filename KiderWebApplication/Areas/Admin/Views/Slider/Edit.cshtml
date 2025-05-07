@@ -1,0 +1,30 @@
+﻿@model Slider
+
+<form asp-action="Edit" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Subtitle"></label>
+        <input asp-for="Subtitle" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="RedirectUrl"></label>
+        <input asp-for="RedirectUrl" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="IsActive"></label>
+        <input asp-for="IsActive" class="form-check-input" />
+    </div>
+    <div class="form-group">
+        <label>Current Image</label><br />
+        <img src="~/uploads/sliders/@Model.Image" width="150" />
+    </div>
+    <div class="form-group">
+        <label>New Image (optional)</label>
+        <input asp-for="Photo" type="file" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">Update</button>
+</form>

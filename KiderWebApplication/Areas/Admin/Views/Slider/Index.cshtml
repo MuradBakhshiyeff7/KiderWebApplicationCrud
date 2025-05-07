@@ -1,0 +1,30 @@
+﻿@model List<Slider>
+
+<a class="btn btn-success mb-3" asp-action="Create">Create</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Title</th>
+            <th>Subtitle</th>
+            <th>IsActive</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var slider in Model)
+        {
+            <tr>
+                <td><img src="~/uploads/sliders/@slider.Image" width="100" /></td>
+                <td>@slider.Title</td>
+                <td>@slider.Subtitle</td>
+                <td>@slider.IsActive</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@slider.Id">Edit</a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@slider.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

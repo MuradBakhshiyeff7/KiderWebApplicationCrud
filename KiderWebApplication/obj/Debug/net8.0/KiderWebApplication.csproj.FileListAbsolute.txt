@@ -258,3 +258,4 @@ C:\Users\I Novbe\source\repos\KiderWebApplication\KiderWebApplication\bin\Debug\
 C:\Users\I Novbe\source\repos\KiderWebApplication\KiderWebApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\I Novbe\source\repos\KiderWebApplication\KiderWebApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\I Novbe\source\repos\KiderWebApplication\KiderWebApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\I Novbe\source\repos\KiderWebApplication\KiderWebApplication\obj\Debug\net8.0\KiderWebApplication.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/6qzAC+74pLOiV4O9v6pZU/0sQRmnA7XKkvj11vFnBY=",
+  "Hash": "7jBu+XQj9/+pI9Yt8DLnW5Coz/J/KTPtZ4R1DrwYzF8=",
   "Source": "KiderWebApplication",
   "BasePath": "_content/KiderWebApplication",
   "Mode": "Default",
@@ -37694,12 +37694,12 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Identity": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\uploads\\4e2997f8-2a10-4bb6-9742-b07af55aa3c1.jpg",
+      "Identity": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\uploads\\963ab205-9664-4c1d-9bff-86924cd22cfe.jpg",
       "SourceId": "KiderWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\",
       "BasePath": "_content/KiderWebApplication",
-      "RelativePath": "uploads/4e2997f8-2a10-4bb6-9742-b07af55aa3c1.jpg",
+      "RelativePath": "uploads/963ab205-9664-4c1d-9bff-86924cd22cfe.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -37710,15 +37710,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\4e2997f8-2a10-4bb6-9742-b07af55aa3c1.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\963ab205-9664-4c1d-9bff-86924cd22cfe.jpg"
     },
     {
-      "Identity": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\uploads\\81a05f24-8936-4079-aa14-a6a78ff5fa33.jpg",
+      "Identity": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\uploads\\a8c05d50-4938-4e2d-a9b9-6233c3136e36.png",
       "SourceId": "KiderWebApplication",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\",
       "BasePath": "_content/KiderWebApplication",
-      "RelativePath": "uploads/81a05f24-8936-4079-aa14-a6a78ff5fa33.jpg",
+      "RelativePath": "uploads/a8c05d50-4938-4e2d-a9b9-6233c3136e36.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -37729,7 +37729,45 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\81a05f24-8936-4079-aa14-a6a78ff5fa33.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\a8c05d50-4938-4e2d-a9b9-6233c3136e36.png"
+    },
+    {
+      "Identity": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\uploads\\sliders\\6af92461-eee8-4a89-8190-1529e5abbfa1.jpg",
+      "SourceId": "KiderWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\",
+      "BasePath": "_content/KiderWebApplication",
+      "RelativePath": "uploads/sliders/6af92461-eee8-4a89-8190-1529e5abbfa1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\sliders\\6af92461-eee8-4a89-8190-1529e5abbfa1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\uploads\\sliders\\ff5df2fa-7f11-4ce8-a6eb-539dc0ccc0dd.jpg",
+      "SourceId": "KiderWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I Novbe\\source\\repos\\KiderWebApplication\\KiderWebApplication\\wwwroot\\",
+      "BasePath": "_content/KiderWebApplication",
+      "RelativePath": "uploads/sliders/ff5df2fa-7f11-4ce8-a6eb-539dc0ccc0dd.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\sliders\\ff5df2fa-7f11-4ce8-a6eb-539dc0ccc0dd.jpg"
     }
   ]
 }
